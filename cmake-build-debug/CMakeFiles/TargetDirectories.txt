@@ -1,0 +1,5 @@
+/Users/carolsong/cinder/cinder_0.9.2_mac/my-projects/ideal-gas-CarolSSS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/carolsong/cinder/cinder_0.9.2_mac/my-projects/ideal-gas-CarolSSS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/carolsong/cinder/cinder_0.9.2_mac/my-projects/ideal-gas-CarolSSS/cmake-build-debug/CMakeFiles/gas-simulation-test.dir
+/Users/carolsong/cinder/cinder_0.9.2_mac/my-projects/ideal-gas-CarolSSS/cmake-build-debug/CMakeFiles/gas-simulation.dir
+/Users/carolsong/cinder/cinder_0.9.2_mac/my-projects/ideal-gas-CarolSSS/cmake-build-debug/CMakeFiles/catch2.dir

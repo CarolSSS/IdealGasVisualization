@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ideal-gas",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "catch2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-catch2-Debug-49bc6ece235f85663bbb.json",
+					"name" : "catch2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gas-simulation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gas-simulation-Debug-be0a3d69d67cc780fe76.json",
+					"name" : "gas-simulation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gas-simulation-test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gas-simulation-test-Debug-d57ac448d3e70f362ef6.json",
+					"name" : "gas-simulation-test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/carolsong/cinder/cinder_0.9.2_mac/my-projects/ideal-gas-CarolSSS/cmake-build-debug",
+		"source" : "/Users/carolsong/cinder/cinder_0.9.2_mac/my-projects/ideal-gas-CarolSSS"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/carolsong/cinder/cinder_0.9.2_mac/my-projects/ideal-gas-CarolSSS
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/carolsong/cinder/cinder_0.9.2_mac/my-projects/ideal-gas-CarolSSS/cmake-build-debug
